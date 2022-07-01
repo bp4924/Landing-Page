@@ -1,0 +1,46 @@
+* {
+  text-align: center;
+}
+
+nav {
+  display: inline-block;
+  align-content: center;
+  background-color: orangered;
+  margin: 5px;
+  height: 40px;
+  padding: 1px;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar-item {
+  display: inline;
+  list-style-type: none;
+  width: 100px;
+  background-color: lightgrey;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 3px;
+}
+
+.contact-item {
+  list-style-type: none;
+  font-weight: bold;
+  height: 30px;
+  padding: 2px;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  margin: 1px;
+  height: 25px;
+  padding: 25px;
+  background-color: lightblue;
+}

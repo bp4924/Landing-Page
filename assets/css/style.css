@@ -1,5 +1,13 @@
 * {
   text-align: center;
+  margin: 5px;
+}
+
+header {
+  background-color: lightblue;
+  height: 25px;
+  padding: 25px;
+  margin: 5px;
 }
 
 nav {
